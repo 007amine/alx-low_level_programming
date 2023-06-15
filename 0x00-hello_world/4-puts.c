@@ -2,6 +2,9 @@
 
 /**
  *main - entry point
+ *
+ *description: using function puts
+ *
  *return: always 0 (success)
 */
 
