@@ -1,7 +1,11 @@
 #include <stdio.h>
 /**
 *main - entry point
-*return: always 0 (sucess)
+*
+* description: using the main function
+* this program prints "Programming is like building a multilingual puzzle
+
+*return: 0
 */
 int main(void)
 {
